@@ -10,8 +10,7 @@ console.table([ name, age, isLoggedIn, state])
 // String => ""
 // boolean => true/false
 // null => standalone value
-// undefined => 
-    
+// undefined =>  
 // symbol => unique
 
 
