@@ -11,6 +11,7 @@ console.table([ name, age, isLoggedIn, state])
 // boolean => true/false
 // null => standalone value
 // undefined => 
+    
 // symbol => unique
 
 
